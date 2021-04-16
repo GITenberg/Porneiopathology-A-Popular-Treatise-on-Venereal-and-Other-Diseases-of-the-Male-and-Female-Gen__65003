@@ -1,0 +1,31 @@
+_repo: Porneiopathology-A-Popular-Treatise-on-Venereal-and-Other-Diseases-of-the-Male-and-Female-Gen__65003
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Culverwell, Robert James
+    aliases:
+    - Culverwell, Robert J.
+    - Culverwell, R. J. (Robert James)
+    birthdate: 1802
+    deathdate: 1852
+    gutenberg_agent_id: '53137'
+    url: http://www.gutenberg.org/2009/agents/53137
+description: ''
+gutenberg_issued: '2021-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexually transmitted diseases'
+- !lcc 'RC'
+- !lcsh 'Sexual health'
+- !lcsh 'Genitourinary organs -- Diseases'
+- GITenberg
+title: "Porneiopathology\r\nA Popular Treatise on Venereal and Other Diseases of the\
+  \ Male and Female Genital System; With Remarks on Impotence, Onanism, Sterility,\
+  \ Piles, and Gravel, and Prescriptions for Their Treatment"
+url: http://www.gutenberg.org/ebooks/65003
